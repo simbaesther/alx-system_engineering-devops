@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/simbaesther
+mkdir /tmp/my_first_directory 
