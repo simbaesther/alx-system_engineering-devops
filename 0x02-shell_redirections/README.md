@@ -13,4 +13,5 @@ This is my shell redirections project
 *11-directories: counting the number of directories and subdirectories in the current directory. the current and parent directories should not be taken into account. Hidden directories should be counted
 *12-newest_files: display the 10 newest files in the current directory, newest first, one file per line
 *13-unique: a script that takes a list of words as inputs and prints only words that appear exactly once. input format one line one word. output format one line one word. Words should be sorted 
-*14-findthatword: display lines containing the pattern "root" from the file /etc/passwd   
+*14-findthatword: display lines containing the pattern "root" from the file /etc/passwd
+*15-countthatword: display the number of the lines that contain the pattern "bin" in the file /etc/passwd    
