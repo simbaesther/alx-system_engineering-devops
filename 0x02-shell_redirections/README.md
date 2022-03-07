@@ -17,4 +17,5 @@ This is my shell redirections project
 *15-countthatword: display the number of the lines that contain the pattern "bin" in the file /etc/passwd
 *16-whatsnext: display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 *17-hidethisword: display all the lines in the file /etc/passwd that do not contain the pattern "bin" 
-*18-letteronly: display all lines of the file /etcssh/sshd_config starting with a letter. include capital letters as well       
+*18-letteronly: display all lines of the file /etcssh/sshd_config starting with a letter. include capital letters as well
+*19-AZ: Replace all characters A and c from input to Z and e respectively        
