@@ -11,4 +11,5 @@ Shell Variables expansions project
 *9-a script that prints the result of POWER divided by DIVIDE followed by a new line. Both are environment variables
 *10-love-exponent_breath: a script that displays the result of BREATH to tyhe power LOVE. BREATH and LOVE are environment variables
 *11-binary_to_decimal: a script that converts a number from base 2 to base 10. the number in base 2 is stored in the environment variable BINARY. The script should display the number in base 10 followed by a new line.
-*12-combinations: a script that prints all posiible combinations of two letters, except oo.letters are lower cases, from a to z, one combination per line, the output should be alpha ordered starting with aa   
+*12-combinations: a script that prints all posiible combinations of two letters, except oo.letters are lower cases, from a to z, one combination per line, the output should be alpha ordered starting with aa
+*13-print_float: a script that prints a number with two decimal places, followed by a new line. the number will be stored in the environment variable NUM    
