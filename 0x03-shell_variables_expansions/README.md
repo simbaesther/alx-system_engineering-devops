@@ -9,4 +9,5 @@ Shell Variables expansions project
 *7-create_global_variable: a script that creates a new global variable 
 *8-true_knowledge:a script that prints the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 *9-a script that prints the result of POWER divided by DIVIDE followed by a new line. Both are environment variables
-*10-love-exponent_breath: a script that displays the result of BREATH to tyhe power LOVE. BREATH and LOVE are environment variables 
+*10-love-exponent_breath: a script that displays the result of BREATH to tyhe power LOVE. BREATH and LOVE are environment variables
+*11-binary_to_decimal: a script that converts a number from base 2 to base 10. the number in base 2 is stored in the environment variable BINARY. The script should display the number in base 10 followed by a new line.  
