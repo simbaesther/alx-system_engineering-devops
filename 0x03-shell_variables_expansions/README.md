@@ -7,5 +7,6 @@ Shell Variables expansions project
 *5-local_variables: a script that lists all local variables and environment variables, and functions 
 *6-create_local_variable: a script that creates a new local variable 
 *7-create_global_variable: a script that creates a new global variable 
-*8-true_knowledge:     script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
-*9-divide_and_rule: a script that prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE areenvironment variables 
+*8-true_knowledge:a script that prints the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
+*9-a script that prints the result of POWER divided by DIVIDE followed by a new line. Both are environment variables
+*10-love-exponent_breath: a script that displays the result of BREATH to tyhe power LOVE. BREATH and LOVE are environment variables 
