@@ -5,4 +5,5 @@ Shell Variables expansions project
 *3-paths: a script that counts the number of directories in the PATH 
 *4-global_variables: a script that listsbenvironment variables 
 *5-local_variables: a script that lists all local variables and environment variables, and functions 
-*6-create_local_variable: a script that creates a new local variable  
+*6-create_local_variable: a script that creates a new local variable 
+*7-create_global_variable: a script that creates a new global variable   
